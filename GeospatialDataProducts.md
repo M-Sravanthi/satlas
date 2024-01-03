@@ -47,7 +47,7 @@ https://pub-956f3eb0f5974f37b9228e0a62f449bf.r2.dev/outputs/tree-cover/YYYY-MM/X
 
 For example, for Seattle in 2022-07:
 
-https://pub-956f3eb0f5974f37b9228e0a62f449bf.r2.dev/outputs/tree-cover/2022-07/20_44.tif
+https://pub-956f3eb0f5974f37b9228e0a62f449bf.r2.dev/outputs/tree-cover/2023-01/90_69.tif
 
 The GeoTIFF contains a single 8-bit band, with these values:
 
